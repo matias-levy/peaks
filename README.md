@@ -10,7 +10,7 @@ Where I am from it is sometimes very difficult to source components for digital 
 
 ## Description
 The project uses a single sided home-etched PCB with a couple of jumper wires, the potentiometers are regular 16mm ones mounted at the side, also helping with the mechanical stability of the build. <br>
-You will a bluepill capable of 128kb of flash, I bought mine advertised as only having 64kb, but it ended up not being the case, so it's worth the try
+You will need a bluepill capable of 128kb of flash, I bought mine advertised as only having 64kb, but it ended up not being the case, so it's worth the try
 
 ## Firmwares
 There's the option to flash one of two firmwares that where ported. The original Mutable Instruments one is in the firmware/peaks directory. The [Mutated Mutables Dead Man's Catch](https://github.com/timchurches/Mutated-Mutables/tree/master/peaks) is in the firmware/peaks2. The later adds a lot of functionality to the module, although the UI becomes a bit confusing. <br>
